@@ -18,7 +18,7 @@ return {
 	17564718305, -- // Da Nuketown
 	17564716597, -- // Da Crossroads
     },
-  ['UpdateMousePosition'] = {
+  ["UpdateMousePosition"] = {
      107695061804464,
   },
     ["UpdateMousePos"] = {

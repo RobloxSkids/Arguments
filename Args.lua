@@ -23,6 +23,7 @@ return {
   },
     ["UpdateMousePos"] = {
         17897702920, -- // OGDH
+	107695061804464,
         11143225577, -- // 1v1 AimTrainer
 	17502123056, -- // AR hood
 	14174018683, -- // JS Hood
